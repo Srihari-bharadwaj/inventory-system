@@ -11,4 +11,4 @@ Yes, Pylint gave a warning about using the global statement even though it was a
 I’d integrate tools like Pylint, Bandit, and Flake8 in a CI pipeline using GitHub Actions. They could automatically run checks on every commit or pull request. I’d also run them locally before pushing code to catch simple mistakes early.
 
 # 4. What tangible improvements did you observe in the code quality, readability, or potential robustness after applying the fixes?
-After applying the fixes, the code became cleaner, easier to read, and more secure. Using proper naming, safe file handling with with, and input validation made it more reliable and less error-prone. The final code feels more professional and maintainable.
+After applying the fixes, the code became cleaner, easier to read, and more secure. Using proper naming, safe file handling with _with_, and input validation made it more reliable and less error-prone. The final code feels more professional and maintainable.
