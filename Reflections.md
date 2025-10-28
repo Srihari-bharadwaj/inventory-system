@@ -1,4 +1,4 @@
-Reflection – Static Code Analysis Lab
+# Reflection – Static Code Analysis Lab
 
 # 1. Which issues were the easiest to fix, and which were the hardest? Why?
 The easiest ones to fix were style issues like missing blank lines, unused imports, and function naming. They were mostly formatting-based and quick to correct.
